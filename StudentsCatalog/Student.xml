@@ -1,0 +1,40 @@
+<?xml version = "1.0"?>
+<studenti>
+   <student Id = "1">
+      <Nume>dinkar</Nume>
+      <Prenume>kad</Prenume>
+      <Telefon>0374826495</Telefon>
+      <Sex>Male</Sex>
+      <Bursier>Da</Bursier>
+   </student>
+   
+   <student Id = "2">
+      <Nume>Vaneet</Nume>
+      <Prenume>Gupta</Prenume>
+      <Telefon>0375628585</Telefon>
+      <Sex>Female</Sex>
+      <Bursier>Nu</Bursier>
+   </student>
+   
+   <student Id = "3">
+      <Nume>jasvir</Nume>
+      <Prenume>singn</Prenume>
+      <Telefon>0735491645</Telefon>
+      <Sex>Male</Sex>
+      <Bursier>Da</Bursier>
+   </student>
+<student Id = "4">
+      <Nume>Popescu</Nume>
+      <Prenume>Ion</Prenume>
+      <Telefon>0737593637</Telefon>
+      <Sex>Male</Sex>
+      <Bursier>Nu</Bursier>
+   </student>
+<student Id = "5">
+      <Nume>Dinca</Nume>
+      <Prenume>Maria</Prenume>
+      <Telefon>0735496831</Telefon>
+      <Sex>Female</Sex>
+      <Bursier>Nu</Bursier>
+   </student>
+</studenti>
