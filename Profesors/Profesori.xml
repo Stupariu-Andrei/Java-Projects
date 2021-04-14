@@ -1,0 +1,56 @@
+<?xml version = "1.0"?>
+<Profesori>
+   <profesor Id = "1">
+      <Nume>John</Nume>
+      <Prenume>Doe</Prenume>
+      <Sex>Male</Sex>
+      <Telefon>0374826495</Telefon>
+      <Salariu>1000</Salariu>
+      <Facultate>Economie</Facultate>
+   </profesor>
+   
+   <profesor Id = "2">
+      <Nume>Popescu</Nume>
+      <Prenume>Ion</Prenume>
+      <Sex>Male</Sex>
+      <Telefon>0374826495</Telefon>
+      <Salariu>2000</Salariu>
+      <Facultate>ACE</Facultate>
+   </profesor>
+   
+   <profesor Id = "3">
+      <Nume>Ionescu</Nume>
+      <Prenume>Cristian</Prenume>
+      <Sex>Male</Sex>
+      <Telefon>0374826495</Telefon>
+      <Salariu>1500</Salariu>
+      <Facultate>Informatica</Facultate>
+   </profesor>
+
+   <profesor Id = "4">
+      <Nume>Dinescu</Nume>
+      <Prenume>Elena</Prenume>
+      <Sex>Female</Sex>
+      <Telefon>0374826495</Telefon>
+      <Salariu>3000</Salariu>
+      <Facultate>ACE</Facultate>
+   </profesor>
+
+   <profesor Id = "5">
+      <Nume>Cristescu</Nume>
+      <Prenume>Denisa</Prenume>
+      <Sex>Female</Sex>
+      <Telefon>0374826495</Telefon>
+      <Salariu>1000</Salariu>
+      <Facultate>Medicina</Facultate>
+   </profesor>
+
+   <profesor Id = "6">
+      <Nume>Jane</Nume>
+      <Prenume>Does</Prenume>
+      <Sex>Female</Sex>
+      <Telefon>0374826495</Telefon>
+      <Salariu>1800</Salariu>
+      <Facultate>ACE</Facultate>
+   </profesor>
+</Profesori>
