@@ -1,0 +1,26 @@
+<Employees>
+  <Employee id="1">
+    <Name>Gigel</Name>
+    <Age>20</Age>
+    <Sex>F</Sex>
+    <Role>Sef</Role>
+  </Employee>
+  <Employee id="2">
+    <Name>Gica</Name>
+    <Age>21</Age>
+    <Sex>M</Sex>
+    <Role>Rob</Role>
+  </Employee>
+  <Employee id="3">
+    <Name>Ionel</Name>
+    <Age>20</Age>
+    <Sex>M</Sex>
+    <Role>Sef3</Role>
+  </Employee>
+  <Employee id="4">
+    <Name>Ionica</Name>
+    <Age>20</Age>
+    <Sex>F</Sex>
+    <Role>Ing</Role>
+  </Employee>
+</Employees>
